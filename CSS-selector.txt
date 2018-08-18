@@ -2,3 +2,18 @@
 p{
 	<attributes>
 }
+
+2. Select by Element ID
+#<id> {
+	<attributes>
+}
+
+3. Select by class name( most common)
+.<class-name> {
+	<attributes>
+}
+
+4. Select by a group
+h1,h2,p,.center... {
+	
+}
