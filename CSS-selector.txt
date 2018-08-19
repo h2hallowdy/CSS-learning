@@ -17,3 +17,8 @@ p{
 h1,h2,p,.center... {
 	
 }
+
+5. Color:
+	+ #hex
+	+ rgb()
+	+ rgba()
